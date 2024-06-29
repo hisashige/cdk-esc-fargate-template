@@ -4,6 +4,9 @@
 - API,管理画面,LIFFの常駐３タスクと+マイグレーションタスクがある想定
 - ECRイメージのPUSHなどは別途やる想定
 
+### アーキテクト図
+<img src="./architecture_diagram.jpg" alt="Architecture Diagram" width="500"/>
+
 ## 事前準備
 
 ### AWS CLI
